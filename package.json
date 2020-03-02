@@ -1,0 +1,12 @@
+{
+  "name": "vidnes-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/popuguytheparrot/vidnes-bot.git",
+  "author": "popuguy <d3xrow@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^3.36.0",
+    "ya-disk": "^2.1.0"
+  }
+}
